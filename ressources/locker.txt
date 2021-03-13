@@ -1,0 +1,14 @@
+Planning entrainements matchs
+présences entrainements matchs 
+convocations
+formation
+exercices expliqués(vidéos + desc)
+feed exercices pour entraineurs ( token à donner à chaque club)
+résultats
+notes joueurs 
+stats 
+messagerie par équipe
+(cocher seniors A/B : Benjamins A / B)
+
+    
+ 
